@@ -1,0 +1,38 @@
+header{
+	background-color: orange;
+	margin-bottom: 40px;
+}
+
+header h1{
+	font-weight: 300px;
+	margin-bottom: 0;
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+header p{
+	margin-top: 0.5em;
+}
+
+.Box {
+  border: 1px solid #E5E5E5;
+}
+
+.Box-info{
+	padding: 20px;
+}
+
+.Box-info h2{
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.Box-info p{
+	margin: 0.5em 0;
+}
+
+.Box-pic{
+	width: 100%
+}
